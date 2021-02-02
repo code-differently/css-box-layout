@@ -50,8 +50,8 @@ We'll be rotating again through our team and GitHub repo.
 
 #### Person 1
 
-1. Set the html or universal selector to `box-sizing: border-box`.
-2. Max-width of 60% applied to an image
+1. Set the html or universal selector to `box-sizing: border-box`. Test the page to see that all boxes display as expected on full-screen laptop mode. 
+2. Max-width of 60% applied to an image. Test the wrapping as the screen size is reduced.
 
 
 ### Exercise 2
