@@ -75,9 +75,8 @@ We'll be rotating again through our team and GitHub repo.
 
 #### Person 4
 
-1. Positiion elements
-2. Float
-3. 
+1. Position elements
+2. Float the image to the right
 
 ## Media Queries
 
