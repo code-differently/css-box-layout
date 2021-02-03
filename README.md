@@ -66,17 +66,15 @@ We'll be rotating again through our team and GitHub repo.
 
 #### Person 3
 
-1. Display 
-2. Relative & absolute - 
-3. Fixed and Sticky - position the header as sticky and the footer as fixed elements 
+1. Display Sticky - position the nav header as sticky  
+2. Position the footer as fixed elements 
 
 
 ### Exercise 2
 
 #### Person 4
 
-1. Position elements
-2. Float the image to the right
+1. Float the image to the right
 
 ## Media Queries
 
