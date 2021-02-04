@@ -85,4 +85,5 @@ We'll be rotating again through our team and GitHub repo.
 
 
 ### Exercise 2
+1. Create a print media query that omits the nav bar.
 
